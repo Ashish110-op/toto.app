@@ -17,7 +17,7 @@ body {
     color: #fff;
 }
 
-@media (max-width:600px){
+@media (max-width:420px){
     .container{
         margin-top: 60px;
         padding: 10px;

@@ -17,10 +17,11 @@ body {
     color: #fff;
 }
 
-@media (min-width:600px){
+@media (max-width:600px){
     .container{
         margin-top: 60px;
         padding: 10px;
+        background-color:var(--teal);
     }
     .stats-container{
         flex-direction: column;

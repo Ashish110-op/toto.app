@@ -17,7 +17,7 @@ body {
     color: #fff;
 }
 
-@media (max-width:500px){
+@media (max-width:600px){
     .container{
         margin-top: 60px;
         padding: 10px;
@@ -35,6 +35,10 @@ body {
     .details h1{
         font-size: 24px;
         text-align: center;
+    }
+    .details p{
+        font-size:16px;
+        tex-align:center;
     }
     form{
         flex-direction: column;
